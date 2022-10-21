@@ -22,11 +22,11 @@ https://jsfiddle.net/lasseedsvik/7socxqdz
 **Screenshots**
 
 
-[Multi-level dropdown](https://lasseedsvik.se/images/bootstrap-menu/bootstrap-menu-1.png)
+[Multi-level dropdown](bootstrap-menu-1.png)
 
-[Menus in columns](https://lasseedsvik.se/images/bootstrap-menu/bootstrap-menu-2.png)
+[Menus in columns](bootstrap-menu-2.png)
 
-[Small menu](https://lasseedsvik.se/images/bootstrap-menu/bootstrap-menu-3.png)
+[Small menu](bootstrap-menu-3.png)
 
 
 
