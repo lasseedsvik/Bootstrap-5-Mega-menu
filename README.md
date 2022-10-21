@@ -1,3 +1,4 @@
+
 # Bootstrap 5.2.2 Mega menu with multilevel dropdowns   
 
 This is a menu that can be used in Bootstrap 5. It supports multilevel dropdowns and columns on submenus. Dropdowns can be configured to expand right or left.
@@ -20,11 +21,15 @@ https://jsfiddle.net/lasseedsvik/7socxqdz
 
 **Screenshots**
 
-![Multi-level dropdown](https://imgur.com/2wlKvXB)
 
-![Multi column (Mega menu) dropdown](hhttps://imgur.com/WtW7ngv)
+[Multi-level dropdown](https://lasseedsvik.se/images/bootstrap-menu/bootstrap-menu-1.png)
 
-![Small menu with columns](https://imgur.com/2Grw5UQ)
+[Menus in columns](https://lasseedsvik.se/images/bootstrap-menu/bootstrap-menu-2.png)
+
+[Small menu](https://lasseedsvik.se/images/bootstrap-menu/bootstrap-menu-3.png)
+
+
+
 
 
 ## Usage
