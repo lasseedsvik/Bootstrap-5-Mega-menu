@@ -15,21 +15,20 @@ This has been tested in Bootstrap 5.2.2.
 
 ## Demo
 
-**Demo**
-
 https://jsfiddle.net/lasseedsvik/7socxqdz
 
-**Screenshots**
+## Screenshots
+
+**Multi-level dropdown**
+<img src="bootstrap-menu-1.png">
 
 
-[Multi-level dropdown](bootstrap-menu-1.png)
+**Menus in columns**
+<img src="bootstrap-menu-2.png">
 
-[Menus in columns](bootstrap-menu-2.png)
+**Small menu**
 
-[Small menu](bootstrap-menu-3.png)
-
-
-
+<img src="bootstrap-menu-3.png">
 
 
 ## Usage
